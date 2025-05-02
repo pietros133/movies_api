@@ -1,1 +1,2 @@
 # movies_api
+Este projeto é uma API simples desenvolvida em Python com Flask, permitindo a pesquisa de filmes por nome ou por ID. A API oferece endpoints para buscar informações sobre filmes, retornando dados como título, ano de lançamento e gênero. Os usuários podem buscar filmes utilizando o nome ou o ID específico, proporcionando uma maneira prática de acessar detalhes sobre filmes diretamente pela web.
