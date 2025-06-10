@@ -596,7 +596,7 @@ def search_by_name():
     else:
         return jsonify({"error": "You must provide a name to search"}), 404
     
-# Query genres 
+
 
 
 if __name__ == '__main__':
